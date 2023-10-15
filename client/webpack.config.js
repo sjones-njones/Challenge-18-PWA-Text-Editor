@@ -27,15 +27,15 @@ module.exports = () => {
         swDest: "service-worker.js",
       }),
       new WebpackPwaManifest({
-        name: "Just Another Text Editor",
-        short_name: "JATE",
-        description: "A text editor that allows on and off use.",
         background_color: "#7ee2ac",
+        name: "Just Another Text Editor",
+        description: "A text editor that allows on and off line use.",
         theme_color: "#7ee2ac",
-        start_url: "/",
-        publicPath: "/",
-        fingerprints: false,
         inject: true,
+        fingerprints: false,
+        start_url: "/",
+        short_name: "JATE",
+        publicPath: "/",
         icons: [
           {
             src: path.resolve("src/images/logo.png"),
