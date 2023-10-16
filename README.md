@@ -19,6 +19,9 @@ This program requires the installation of:
 
 https://github.com/sjones-njones/NoSQL-Social-Network-API.git
 
+![image](https://github.com/sjones-njones/Challenge-19-PWA-Text-Editor/assets/132145599/c3863d37-f100-478a-abe8-be9d9b1f825c)
+![image](https://github.com/sjones-njones/Challenge-19-PWA-Text-Editor/assets/132145599/1db60b03-62d4-47b2-9654-3afee1e1e9a1)
+
 
 ## Credits
 
